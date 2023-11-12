@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "493702309231",
+    "project_id": "practica-2-gps-email",
+    "storage_bucket": "practica-2-gps-email.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493702309231:android:1c48d2ca10b45a09de749a",
+        "android_client_info": {
+          "package_name": "com.vhpg.practica2gpsemail"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjZngyjsQi9ZaXeeoYZFMz2zjKd-9EoNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
